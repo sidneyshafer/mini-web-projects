@@ -2,7 +2,7 @@
 A collection of mini-web applications built with HTML, CSS, and JavaScript.
 
 ## Attribution
-- Brad Traversy. [Modern JS From the Beginning](https://www.udemy.com/share/103Pje3@Lq4F8ewacITHqLa1UK00fWSmGH90VrunBtRAE-1L_nOCRBCcdhwapUemDKuHjil_PQ==/), Udemy.
+- Brad Traversy. [50 Projects in 50 Days - HTML, CSS, & JavaScript](https://www.udemy.com/share/103Pje3@Lq4F8ewacITHqLa1UK00fWSmGH90VrunBtRAE-1L_nOCRBCcdhwapUemDKuHjil_PQ==/), Udemy.
 
 ## License
 The MIT License
