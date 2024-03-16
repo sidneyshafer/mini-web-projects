@@ -1,8 +1,10 @@
 # Mini-Web Applications
-A collection of 50 web widgets built with HTML, CSS, and JavaScript.
+A collection of 50+ web widgets built with HTML, CSS, and JavaScript.
 
 ## Attribution
 - Brad Traversy. [50 Projects in 50 Days - HTML, CSS, & JavaScript](https://www.udemy.com/share/103Pje3@Lq4F8ewacITHqLa1UK00fWSmGH90VrunBtRAE-1L_nOCRBCcdhwapUemDKuHjil_PQ==/), Udemy.
+
+- Online Tutorials, [YouTube Channel](https://www.youtube.com/@OnlineTutorialsYT/featured).
 
 ## License
 The MIT License
