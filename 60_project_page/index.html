@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" href="style.css">
+   <title>Project Page</title>
+</head>
+<body>
+   <div class="main-container">
+      <div id="text" data-text="Hello! My Name is Sidney Shafer.">Hello! My Name is Sidney Shafer.</div>
+      <!-- <div class="ladder">
+         <div class="leg1"></div>
+         <div class="step"></div>
+         <div class="leg2"></div>
+      </div> -->
+   </div>
+   <script type="text/javascript">
+      var text = document.getElementById('text')
+      var shadow = '';
+      for(var i = 0; i < 25; i++) {
+         shadow +=(shadow? ',':'')+ -i * 1 +'px ' + i*1 + 'px 0 #F9C74F';
+      }
+      text.style.textShadow = shadow
+   </script>
+</body>
+</html>
