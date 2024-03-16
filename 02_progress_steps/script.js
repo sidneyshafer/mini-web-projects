@@ -1,8 +1,3 @@
-/* getElementByID()
-   - used for just one thing (ex: ids)
-   querySelectorAll()
-   - used for more than one thing (ex: classes)
-   - creates node list */
 const progress = document.getElementById('progress');
 const prev = document.getElementById('prev');
 const next = document.getElementById('next');
@@ -11,7 +6,7 @@ const circles = document.querySelectorAll('.circle');
 let currentActive = 1;
 
 next.addEventListener('click', () => {
-   currentActive++ // ++ = goes up by 1
+   currentActive++
 
    if(currentActive > circles.length) {
       currentActive = circles.length
@@ -21,7 +16,7 @@ next.addEventListener('click', () => {
 })
 
 prev.addEventListener('click', () => {
-   currentActive-- // -- = goes down by 1
+   currentActive--
 
    if(currentActive < 1) {
       currentActive = 1
@@ -41,7 +36,6 @@ function update() {
 
    const actives = document.querySelectorAll('.active')
 
-   // Progress Bar
    progress.style.width = (actives.length - 1) / (circles.length - 1) * 100 + '%';
 
    if(currentActive === 1) {
