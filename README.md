@@ -15,3 +15,4 @@
 | 10 | [Dad Jokes](10_dad_jokes) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/NWmbwMr) |
 | 11 | [KeyCode Event](11_event_keycodes) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/xxeRPJa) |
 | 12 | [FAQ Collapse Feature](12_faq_collapse) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/vYMyWzq) |
+| 13 | [Random Choice Picker](13_random_choice_picker) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/YzMpEgm) |
