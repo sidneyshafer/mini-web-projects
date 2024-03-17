@@ -23,3 +23,4 @@
 | 18 | [Image Background Slider](18-image-background-slider) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/rNbWZWq) |
 | 19 | [Theme Clock](19-theme-clock) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/qBwqMRz) |
 | 20 | [Button Ripple Effect](20-button-ripple-effect) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/oNOYPQb) |
+| 21 | [Image Drag & Drop](21-image-drag-and-drop) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/zYXoMEP) |
