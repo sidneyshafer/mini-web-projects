@@ -3,7 +3,7 @@
 
 | #️ | Project | Demo Link ↗️ |
 |---|---------|-----------|
-| 1 | [Expanding Cards](01-expanding-image-cards) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/qBwqVWp) |
+| 1 | [Expanding Image Cards](01-expanding-image-cards) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/qBwqVWp) |
 | 2 | [Progress Bar Steps](02-progress-bar-steps) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/oNOYoNd) |
 | 3 | [Rotating Navigation Page](03-rotating-navigation) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/poBNdWR) |
 | 4 | [Hidden Search Bar](04-hidden-search-bar) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/GRLNOMb) |
