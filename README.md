@@ -25,3 +25,4 @@
 | 20 | [Button Ripple Effect](20-button-ripple-effect) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/oNOYPQb) |
 | 21 | [Image Drag & Drop](21-image-drag-and-drop) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/zYXoMEP) |
 | 22 | [Drawing Board](22-drawing-board) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/XWQNyvY) |
+| 23 | [CSS Loader Effect](23-css-loader-effect) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/RwOoEgr) |
