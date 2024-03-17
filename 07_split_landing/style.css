@@ -22,7 +22,6 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  /* Top, right, bottom, left */
   margin: 6rem;
   background: #eee;
 }
@@ -83,7 +82,7 @@ h1 {
 
 .split.left {
   left: 0;
-  background: url('img/halloween.jpg');
+  background: url('https://images.unsplash.com/photo-1477659803863-c1bf91b34c90?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -105,7 +104,7 @@ h1 {
 
 .split.right {
   right: 0;
-  background: url('img/christmas.jpg');
+  background: url('https://images.unsplash.com/photo-1482517967863-00e15c9b44be?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
   background-repeat: no-repeat;
   background-size: cover;
 }
