@@ -1,24 +1,25 @@
-@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Tajawal&display=swap');
 
 * {
   box-sizing: border-box;
 }
 
 body {
-  font-family: 'Muli', sans-serif;
-  background-color: #fff;
+  font-family: 'Tajawal', sans-serif;
+  background-color: #eee;
   margin: 30px;
 }
 
 h1 {
   margin: 20px 0 30px;
   text-align: center;
+  color: #fff;
 }
 
 .faq-container {
   border-radius: 10px;
   max-width: 600px;
-  background-color: #adc6c4;
+  background-color: #1b4965;
   margin: 0 auto;
   padding: 50px;
   /* box-shadow: 5px 10px 20px rgba(0, 0, 0, 0.1), 5px 5px 30px rgba(0, 0, 0, 0.1); */
@@ -39,19 +40,6 @@ h1 {
   background-color: #fff;
   /* horizontal, vertical, blur */
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1), 0 3px 6px rgba(0, 0, 0, 0.1);
-}
-
-.faq.active::before,
-.faq.active::after {
-  content: '\f075';
-  font-family: 'Font Awesome 5 Free';
-  color: #2ecc71;
-  font-size: 7rem;
-  position: absolute;
-  opacity: 0.2;
-  top: 20px;
-  left: 20px;
-  z-index: 0;
 }
 
 .faq.active::before {
@@ -109,5 +97,5 @@ h1 {
 }
 
 .faq.active .faq-toggle {
-  background-color: #9fa4a8;
+  background-color: #62b6cb;
 }
