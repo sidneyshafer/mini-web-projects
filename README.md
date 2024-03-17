@@ -22,4 +22,4 @@
 | 17 | [Movie App](17-movie-app) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/zYXoLjR) |
 | 18 | [Image Background Slider](18-image-background-slider) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/rNbWZWq) |
 | 19 | [Theme Clock](19-theme-clock) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/qBwqMRz) |
-| 20 | [Theme Clock](20-button-ripple-effect) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/oNOYPQb) |
+| 20 | [Button Ripple Effect](20-button-ripple-effect) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/oNOYPQb) |
