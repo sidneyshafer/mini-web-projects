@@ -8,7 +8,7 @@ body {
   font-family: 'Lato', sans-serif;
   background-color: #333;
   color: #222;
-  overflow-x: hidden; /* hides scroll bar on the x-axis (horizontally) */
+  overflow-x: hidden;
   margin: 0;
 }
 
