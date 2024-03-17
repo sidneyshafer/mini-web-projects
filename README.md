@@ -18,3 +18,4 @@
 | 13 | [Random Choice Picker](13-random-choice-picker) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/YzMpEgm) |
 | 14 | [Animated Nav Bar](14-animated-nav) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/JjVbZoG) |
 | 15 | [Social Media Following](15-social-media-following) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/dyLOjWg) |
+| 16 | [Hydration Tracker](16-hydration-tracker) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/JjVbBOZ) |
