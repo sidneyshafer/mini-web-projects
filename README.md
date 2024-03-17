@@ -16,3 +16,4 @@
 | 11 | [KeyCode Event](11-keycode-event) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/xxeRPJa) |
 | 12 | [FAQ Collapse Feature](12-faq-collapse) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/vYMyWzq) |
 | 13 | [Random Choice Picker](13-random-choice-picker) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/YzMpEgm) |
+| 14 | [Animated Nav Bar](14-animated-nav) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/JjVbZoG) |
