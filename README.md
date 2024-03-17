@@ -17,3 +17,4 @@
 | 12 | [FAQ Collapse Feature](12-faq-collapse) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/vYMyWzq) |
 | 13 | [Random Choice Picker](13-random-choice-picker) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/YzMpEgm) |
 | 14 | [Animated Nav Bar](14-animated-nav) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/JjVbZoG) |
+| 15 | [Social Media Following](15-social-media-following) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/dyLOjWg) |
