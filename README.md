@@ -26,3 +26,4 @@
 | 21 | [Image Drag & Drop](21-image-drag-and-drop) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/zYXoMEP) |
 | 22 | [Drawing Board](22-drawing-board) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/XWQNyvY) |
 | 23 | [CSS Loader Effect](23-css-loader-effect) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/RwOoEgr) |
+| 24 | [Content Loader Effect](24-content-loader) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/wvZoRZy) |
