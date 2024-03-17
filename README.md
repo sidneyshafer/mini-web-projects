@@ -20,3 +20,4 @@
 | 15 | [Social Media Following](15-social-media-following) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/dyLOjWg) |
 | 16 | [Hydration Tracker](16-hydration-tracker) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/JjVbBOZ) |
 | 17 | [Movie App](17-movie-app) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/zYXoLjR) |
+| 18 | [Image Background Slider](18-image-background-slider) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/rNbWZWq) |
