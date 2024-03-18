@@ -27,3 +27,4 @@
 | 22 | [Drawing Board](22-drawing-board) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/XWQNyvY) |
 | 23 | [CSS Loader Effect](23-css-loader-effect) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/RwOoEgr) |
 | 24 | [Content Loader Effect](24-content-loader) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/wvZoRZy) |
+| 25 | [Sticky Navbar](25-sticky-navbar) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/mdgOvbw) |
