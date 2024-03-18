@@ -1,7 +1,7 @@
 const container = document.getElementById('container');
 const colors = ['#F6BD60', '#F7EDE2', '#F5CAC3', '#84A59D', '#F28482'];
 
-const SQUARES = 500;
+const SQUARES = 195; // change value to add (or subtract) # of squares
 
 for (let i = 0; i < SQUARES; i++) {
   const square = document.createElement('div');
