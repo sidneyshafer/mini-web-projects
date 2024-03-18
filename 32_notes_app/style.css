@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #7bdaf3;
+  background-color: #22223b;
   font-family: 'Poppins', sans-serif;
   display: flex;
   flex-wrap: wrap;
@@ -17,7 +17,7 @@ body {
   position: fixed;
   top: 1rem;
   right: 1rem;
-  background-color: #9ec862;
+  background-color: #4a4e69;
   border: none;
   border-radius: 3px;
   padding: 0.5rem 1rem;
@@ -34,7 +34,7 @@ body {
 }
 
 .note .tools {
-  background-color: #9ec862;
+  background-color: #4a4e69;
   display: flex;
   justify-content: flex-end;
   padding: 0.5rem;
@@ -44,7 +44,7 @@ body {
   background-color: transparent;
   cursor: pointer;
   border: none;
-  color: #fff;
+  color: #bbb;
   font-size: 1rem;
   margin-left: 0.5rem;
 }
