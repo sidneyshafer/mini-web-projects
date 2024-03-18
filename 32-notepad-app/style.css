@@ -38,22 +38,24 @@ body {
   display: flex;
   justify-content: flex-end;
   padding: 0.5rem;
+  border-bottom: 1px solid #bbb;
 }
 
 .note .tools button {
   background-color: transparent;
   cursor: pointer;
   border: none;
-  color: #bbb;
+  color: #fff;
   font-size: 1rem;
   margin-left: 0.5rem;
 }
 
 .note textarea {
+  background-color: rgba(225, 225, 225, 1);
+  border: none;
   outline: none;
   font-family: inherit;
   font-size: 1.2rem;
-  border: none;
   height: 400px;
   width: 100%;
   padding: 20px;
