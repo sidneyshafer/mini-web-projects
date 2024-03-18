@@ -28,4 +28,4 @@
 | 23 | [CSS Loader Effect](23-css-loader-effect) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/RwOoEgr) |
 | 24 | [Content Loader Effect](24-content-loader) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/wvZoRZy) |
 | 25 | [Sticky Navbar](25-sticky-navbar) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/mdgOvbw) |
-| 26 | [Image Slider](27-image-slider) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/dyLOaYO) |
+| 26 | [Image Slider](26-image-slider) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/dyLOaYO) |
