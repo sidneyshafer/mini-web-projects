@@ -29,3 +29,4 @@
 | 24 | [Content Loader Effect](24-content-loader) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/wvZoRZy) |
 | 25 | [Sticky Navbar](25-sticky-navbar) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/mdgOvbw) |
 | 26 | [Image Slider](26-image-slider) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/dyLOaYO) |
+| 27 | [GitHub Profile Search](27-github-profile-search) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/qBwRbOg) |
