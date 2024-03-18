@@ -35,4 +35,4 @@
 | 30 | [Loading Text Effect](30-loading-text-effect) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/zYXNBZz) |
 | 31 | [Colored Checkbox UI](31-colored-checkboxes) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/LYvxbqL) |
 | 32 | [Notepad App](32-notepad-app) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/wvZggVG) |
-| 32 | [CSS Animated Countdown](33-css-animated-countdown) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/PogWpPP) |
+| 33 | [CSS Animated Countdown](33-css-animated-countdown) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/PogWpPP) |
