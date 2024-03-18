@@ -1,23 +1,23 @@
 const toggles = document.querySelectorAll('.toggle')
 const good = document.querySelector('#good')
-const cheap = document.querySelector('#cheap')
-const fast = document.querySelector('#fast')
+const great = document.querySelector('#great')
+const amazing = document.querySelector('#amazing')
 
 toggles.forEach(toggle => toggle.addEventListener('change',
 (e) => doTheTrick(e.target)))
 
 function doTheTrick(theClickedOne) {
-   if(good.checked && cheap.checked && fast.checked) {
+   if(good.checked && great.checked && amazing.checked) {
       if(good === theClickedOne) {
-         fast.checked = false
+         amazing.checked = false
       }
 
-      if(cheap === theClickedOne) {
+      if(great === theClickedOne) {
          good.checked = false
       }
 
-      if(fast === theClickedOne) {
-         cheap.checked = false
+      if(amazing === theClickedOne) {
+         great.checked = false
       }
    }
 }
