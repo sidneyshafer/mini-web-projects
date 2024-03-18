@@ -19,7 +19,7 @@ body {
 
 .nav {
   position: fixed;
-  background-color: #222;
+  background-color: transparent;
   top: 0;
   left: 0;
   right: 0;
@@ -63,12 +63,16 @@ body {
 
 .nav a.current,
 .nav a:hover {
-  color: #c0392b;
   font-weight: bold;
 }
 
+.nav a.current {
+  background: #f4f4f4;
+  color: #222;
+}
+
 .hero {
-  background-image: url('img/hero1.jpg');
+  background-image: url('https://images.unsplash.com/photo-1548602088-9d12a4f9c10f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTR8fHxlbnwwfHx8fHw%3D');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
