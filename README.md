@@ -36,3 +36,4 @@
 | 31 | [Colored Checkbox UI](31-colored-checkboxes) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/LYvxbqL) |
 | 32 | [Notepad App](32-notepad-app) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/wvZggVG) |
 | 33 | [CSS Animated Countdown](33-css-animated-countdown) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/PogWpPP) |
+| 34 | [Auto Image Carousel](34-auto-image-carousel) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/YzMNZVz) |
