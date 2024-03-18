@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #2a2a72;
+  background-color: #22223b;
   color: #fff;
   font-family: 'Poppins', sans-serif;
   display: flex;
@@ -25,7 +25,7 @@ body {
 .user-form input {
   width: 100%;
   display: block;
-  background-color: #4c2885;
+  background-color: #4a4e69;
   border: none;
   border-radius: 10px;
   color: #fff;
@@ -43,11 +43,13 @@ body {
 
 .user-form input:focus {
   outline: none;
+  background-color: #4a4e69;
+  color: #fff;
 }
 
 .card {
   max-width: 800px;
-  background-color: #4c2885;
+  background-color: #4a4e69;
   border-radius: 20px;
   box-shadow: 0 5px 10px rgba(154, 160, 185, 0.05),
     0 15px 40px rgba(0, 0, 0, 0.1);
@@ -58,7 +60,7 @@ body {
 
 .avatar {
   border-radius: 50%;
-  border: 10px solid #2a2a72;
+  border: 10px solid #22223b;
   height: 150px;
   width: 150px;
 }
@@ -92,8 +94,8 @@ body {
 
 .repo {
   text-decoration: none;
-  color: #fff;
-  background-color: #2a2a72;
+  background-color: #22223b;
+  color: #bbb;
   font-size: 0.7rem;
   padding: 0.25rem 0.5rem;
   margin-right: 0.5rem;
