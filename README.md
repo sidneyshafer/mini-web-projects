@@ -31,3 +31,4 @@
 | 26 | [Image Slider](26-image-slider) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/dyLOaYO) |
 | 27 | [GitHub Profile Search](27-github-profile-search) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/qBwRbOg) |
 | 28 | [Toast Notifications](28-toast-notification) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/oNOBxJe) |
+| 29 | [Image Heart Click](29-image-heart-click) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/qBwRNZp) |
