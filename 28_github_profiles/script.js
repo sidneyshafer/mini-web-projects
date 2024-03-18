@@ -39,9 +39,9 @@ function createUserCard(user) {
       <h2>${userID}</h2>
       ${userBio}
       <ul>
-        <li>${user.followers} <strong>Followers</strong></li>
-        <li>${user.following} <strong>Following</strong></li>
-        <li>${user.public_repos} <strong>Repos</strong></li>
+        <li>${user.followers} <strong>FOLLOWERS</strong></li>
+        <li>${user.following} <strong>FOLLOWING</strong></li>
+        <li>${user.public_repos} <strong>REPOS</strong></li>
       </ul>
 
       <div id="repos"></div>
