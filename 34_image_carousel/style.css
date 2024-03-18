@@ -9,21 +9,22 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #f8f8f8;
+  background-color: #001d3d;
   height: 100vh;
   margin: 0;
 }
 
 img {
-  width: 500px;
-  height: 500px;
+  width: 300px;
+  height: 300px;
   object-fit: cover;
+  border-radius: 5px;
 }
 
 .carousel {
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
-  height: 530px;
-  width: 500px;
+  height: 330px;
+  width: 300px;
   overflow: hidden;
 }
 
@@ -39,9 +40,10 @@ img {
 }
 
 .btn {
-  background-color: #1e1e24;
-  color: #fff;
+  color: #f8f8f8;
+  background-color: #4a4e69;
   border: none;
+  border-radius: 10px;
   padding: 0.5rem;
   cursor: pointer;
   width: 49.5%;
