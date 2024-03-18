@@ -6,6 +6,7 @@
 
 body {
   font-family: 'Roboto', sans-serif;
+  background-color: #cbf3f0;
   margin: 0;
   height: 100vh;
   overflow: hidden;
@@ -38,6 +39,10 @@ h4 {
   text-align: center;
 }
 
+.final h1 {
+  font-size: 3rem;
+}
+
 .final.show {
   transform: translate(-50%, -50%) scale(1);
   animation: show 0.2s ease-out;
@@ -45,7 +50,7 @@ h4 {
 
 .nums {
   position: relative;
-  color: #3498db;
+  color: #028090;
   font-size: 50px;
   overflow: hidden;
   width: 250px;
@@ -71,11 +76,11 @@ h4 {
 
 /* Replay Button */
 #replay {
-  background-color: #3498db;
+  background-color: #05668d;
   border-radius: 3px;
   border: none;
   color: aliceblue;
-  padding: 5px;
+  padding: 7px 10px;
   text-align: center;
   display: inline-block;
   cursor: pointer;
