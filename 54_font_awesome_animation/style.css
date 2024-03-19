@@ -54,8 +54,8 @@ i {
 
 i:hover {
   transition: 0s;
-  color: #0f0;
-  text-shadow: 0 0 120px #0f0;
+  color: rgb(190 24 93);
+  text-shadow: 0 0 120px rgb(190 24 93);
 }
 
 @keyframes animate1 {
