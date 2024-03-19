@@ -42,3 +42,4 @@
 | 37 | [Tab Navigation Card](37-tab-navigation-card) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/bGJgWgK) |
 | 38 | [Password Strength](38-password-strength) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/WNWRjKP) |
 | 39 | [3D Box Effect](39-3d-box-effect) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/rNbjmox) |
+| 40 | [Dark Theme Verification](40-dark-theme-varification) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/xxegjRQ) |
