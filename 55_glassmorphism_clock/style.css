@@ -20,10 +20,10 @@ body::before {
   height: 100%;
   background: linear-gradient(
     45deg,
-    #e91e63,
-    #e91e63 50%,
-    #ffc107 50%,
-    #ffc107
+    #051923,
+    #003554 50%,
+    #006494 50%,
+    #0582ca
   );
 }
 
@@ -36,8 +36,8 @@ body::after {
   height: 100%;
   background: linear-gradient(
     160deg,
-    #03a9f4,
-    #03a9f4 50%,
+    #0582ca,
+    #00a6fb 50%,
     transparent 50%,
     transparent
   );
@@ -90,12 +90,11 @@ body::after {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: radial-gradient(transparent, rgba(255, 255, 255, 0.2)),
-    url('clock.png');
+  background: radial-gradient(transparent, rgba(255, 255, 255, 0.2));
   background-size: cover;
   border-radius: 50%;
   backdrop-filter: blur(25px);
-  border: 1px solid rgba(255, 255, 255, 0.2);
+  border: 1px solid rgba(0, 0, 0, 0.5);
   border-bottom: none;
   border-right: none;
   box-shadow: -10px -10px 20px rgba(255, 255, 255, 0.1),
@@ -107,7 +106,7 @@ body::after {
   position: absolute;
   width: 15px;
   height: 15px;
-  background: #fff;
+  background: #000;
   border-radius: 50%;
   z-index: 10000;
 }
@@ -150,7 +149,7 @@ body::after {
   position: absolute;
   width: 8px;
   height: 80px;
-  background: #ff105e;
+  background: rgb(0, 53, 84);
   border-radius: 6px;
   z-index: 11;
 }
