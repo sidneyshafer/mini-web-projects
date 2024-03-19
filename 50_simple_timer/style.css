@@ -15,3 +15,16 @@
   transform-origin: bottom center;
   transform: rotate(var(--degrees));
 }
+
+.card {
+   box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
+}
+
+.btn-style:hover {
+  background-color: #ef476f;
+  transition: all 0.3s ease;
+}
+
+.btn-style:active {
+  background-color: rgb(190 24 93);
+}
