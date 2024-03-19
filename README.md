@@ -51,3 +51,4 @@
 | 46 | [Testimonial Box](46-testimonial-box) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/gOygQdJ) |
 | 47 | [Image Gallery](47-image-gallery) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/rNbjoOJ) |
 | 48 | [Todo List](48-todo-list) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/KKYabMq) |
+| 49 | [Insect Game](49-insect-game) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/poBRqap) |
