@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #252422;
+  background-color: #000;
   font-family: 'Nunito Sans', sans-serif;
   display: flex;
   align-items: center;
@@ -23,7 +23,7 @@ h2 {
 
 .container {
   color: rgba(225, 225, 225, 0.7);
-  background-color: rgb(0, 0, 0, 0.5);
+  background-color: rgb(225, 225, 225, 0.1);
   border: 3px #1982c4 solid;
   box-shadow: 0px 0px 10px 2px #1982c4;
   border-radius: 10px;
