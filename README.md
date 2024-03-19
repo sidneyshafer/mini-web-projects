@@ -47,3 +47,4 @@
 | 42 | [Feedback Design](42-feedback-design) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/details/qBwRMVw) |
 | 43 | [Range Slider](43-range-slider) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/VwNPEwa) |
 | 44 | [Navigation Menu](44-navigation-menu) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/bGJgmoj) |
+| 45 | [Mini Quiz App](45-mini-quiz-app) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/QWPdZoP) |
