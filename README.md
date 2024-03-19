@@ -53,4 +53,4 @@
 | 48 | [Todo List](48-todo-list) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/KKYabMq) |
 | 49 | [Insect Game](49-insect-game) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/poBRqap) |
 | 50 | [Timer Design](50-timer-design) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/qBwRLYG) |
-| 51 | [3D Text Effect](51-3d-text-effect) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/jORydme) |
+| 51 | [Image Hover Effect](51-image-hover-effect) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/QWPdYaJ) |
