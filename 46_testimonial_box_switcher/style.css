@@ -18,7 +18,7 @@ body {
 }
 
 .testimonial-container {
-  background-color: #476ce4;
+  background-color: #05668d;
   color: #fff;
   border-radius: 15px;
   margin: 20px auto;
@@ -71,10 +71,11 @@ body {
 .user .role {
   font-weight: normal;
   margin: 10px 0;
+  color: rgba(225, 225, 225, 0.5);
 }
 
 .progress-bar {
-  background-color: #fff;
+  background-color: rgba(0, 0, 0, 0.3);
   height: 4px;
   width: 100%;
   transform-origin: left;
