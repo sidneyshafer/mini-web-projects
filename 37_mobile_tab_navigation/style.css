@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: rgba(155, 89, 182, 0.7);
+  background-color: rgba(203, 243, 240, 0.7);
   font-family: 'Open Sans', sans-serif;
   display: flex;
   align-items: center;
@@ -17,9 +17,9 @@ body {
 .phone {
   position: relative;
   overflow: hidden;
-  border: 3px solid #eee;
+  border: 3px solid rgb(46, 196, 182);
   border-radius: 15px;
-  height: 600px;
+  height: 300px;
   width: 340px;
   box-shadow: 0 3px 15px rgba(100, 100, 100, 0.5);
 }
@@ -50,7 +50,7 @@ nav {
 }
 
 nav ul {
-  background-color: #fff;
+  background-color: rgb(46, 196, 182);
   display: flex;
   list-style-type: none;
   padding: 0;
@@ -59,7 +59,7 @@ nav ul {
 }
 
 nav ul li {
-  color: #777;
+  color: #fff;
   cursor: pointer;
   flex: 1;
   padding: 10px;
@@ -73,5 +73,5 @@ nav ul li p {
 
 nav ul li:hover,
 nav ul li.active {
-  color: #8e44ad;
+  color: rgb(203, 243, 240);
 }
