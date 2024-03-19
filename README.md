@@ -56,3 +56,4 @@
 | 51 | [Image Hover Effect](51-image-hover-effect) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/QWPdYaJ) |
 | 52 | [Font Awesome Animation](52-font-awesome-animation) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/yLrgZxd) |
 | 53 | [Floating Clock](53-floating-clock) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/eYogxXN) |
+| 54 | [CSS House Drawing](54-css-house-drawing) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/XWQpGbK) |
