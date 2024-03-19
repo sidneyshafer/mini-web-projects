@@ -5,7 +5,7 @@
 }
 
 body {
-  background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  background-color: #111;
   font-family: 'Lato', sans-serif;
   display: flex;
   flex-direction: column;
@@ -16,11 +16,6 @@ body {
   margin: 0;
 }
 
-h2 {
-  position: absolute;
-  top: 10px;
-}
-
 .range-container {
   position: relative;
 }
@@ -28,6 +23,8 @@ h2 {
 input[type='range'] {
   width: 300px;
   margin: 18px 0;
+  background-color: rgba(0, 0, 0, 0.7);
+  color: #fff;
   appearance: none;
   -webkit-appearance: none;
 }
@@ -37,20 +34,22 @@ input[type='range']:focus {
 }
 
 input[type='range'] + label {
-  background-color: #fff;
+  background-color: rgba(0, 0, 0, 0.7);
+  font-size: 18px;
+  color: #fff;
   position: absolute;
-  top: -25px;
+  top: -40px;
   left: 110px;
   width: 80px;
-  padding: 5px 0;
+  padding: 10px 0px;
   text-align: center;
   border-radius: 4px;
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 0 3px rgba(225, 225, 225, 0.3);
 }
 
 /* Chrome and Safari */
 input[type='range']::-webkit-slider-runnable-track {
-  background: purple;
+  background: #7678ed;
   border-radius: 4px;
   width: 100%;
   height: 10px;
@@ -62,19 +61,19 @@ input[type='range']::-webkit-slider-thumb {
   -webkit-appearance: none;
   height: 24px;
   width: 24px;
-  background: #fff;
+  background: rgba(0, 0, 0, 0.7);
   border-radius: 50%;
-  border: 1px solid purple;
+  border: 1px solid #7678ed;
   margin-top: -7px;
   cursor: pointer;
 }
 
 /* Firefox */
 input[type='range']::-moz-range-track {
-  background: purple;
+  background: #7678ed;
   border-radius: 4px;
   width: 100%;
-  height: 13px;
+  height: 10px;
   cursor: pointer;
 }
 
@@ -83,16 +82,16 @@ input[type='range']::-moz-range-thumb {
   -webkit-appearance: none;
   height: 24px;
   width: 24px;
-  background: #fff;
+  background: rgba(0, 0, 0, 0.7);
   border-radius: 50%;
-  border: 1px solid purple;
+  border: 1px solid #7678ed;
   margin-top: -7px;
   cursor: pointer;
 }
 
 /* Internet Explorer */
 input[type='range']::-ms-track {
-  background: purple;
+  background: #7678ed;
   border-radius: 4px;
   width: 100%;
   height: 13px;
@@ -104,9 +103,9 @@ input[type='range']::-ms-thumb {
   -webkit-appearance: none;
   height: 24px;
   width: 24px;
-  background: #fff;
+  background: rgba(0, 0, 0, 0.7);
   border-radius: 50%;
-  border: 1px solid purple;
+  border: 1px solid #7678ed;
   margin-top: -7px;
   cursor: pointer;
 }
