@@ -44,3 +44,4 @@
 | 39 | [3D Box Effect](39-3d-box-effect) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/rNbjmox) |
 | 40 | [Dark Theme Verification](40-dark-theme-varification) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/xxegjRQ) |
 | 41 | [Filter User](41-filter-user) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/YzMNOGm) |
+| 42 | [Feedback Design](42-feedback-design) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/details/qBwRMVw) |
