@@ -48,3 +48,4 @@
 | 43 | [Range Slider](43-range-slider) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/VwNPEwa) |
 | 44 | [Navigation Menu](44-navigation-menu) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/bGJgmoj) |
 | 45 | [Mini Quiz App](45-mini-quiz-app) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/QWPdZoP) |
+| 46 | [Testimonial Box](46-testimonial-box) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/gOygQdJ) |
