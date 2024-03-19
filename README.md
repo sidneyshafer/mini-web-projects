@@ -54,3 +54,4 @@
 | 49 | [Insect Game](49-insect-game) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/poBRqap) |
 | 50 | [Timer Design](50-timer-design) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/qBwRLYG) |
 | 51 | [Image Hover Effect](51-image-hover-effect) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/QWPdYaJ) |
+| 52 | [Font Awesome Animation](52-font-awesome-animation) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/yLrgZxd) |
