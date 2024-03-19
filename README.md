@@ -38,7 +38,7 @@
 | 33 | [CSS Animated Countdown](33-css-animated-countdown) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/PogWpPP) |
 | 34 | [Auto Image Carousel](34-auto-image-carousel) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/YzMNZVz) |
 | 35 | [Mini-Hoverboard](35-mini-hoverboard) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/oNOBZpv) |
-| 36 | [Pokedex App](36-pokedex-app) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/vYMgxwX) |
+| 36 | [Pokemon Cards](36-pokemon-cards) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/vYMgxwX) |
 | 37 | [Tab Navigation Card](37-tab-navigation-card) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/bGJgWgK) |
 | 38 | [Password Strength](38-password-strength) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/WNWRjKP) |
 | 39 | [3D Box Effect](39-3d-box-effect) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/rNbjmox) |
