@@ -1,12 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Tajawal:wght@200;300;400;500;700;800;900&display=swap');
 
 * {
   box-sizing: border-box;
 }
 
 body {
-  background-color: #fef9f2;
-  font-family: 'Montserrat', sans-serif;
+  background-color: #eae0d5;
+  font-family: "Nunito Sans", sans-serif;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -31,7 +31,7 @@ body {
 
 .panel-container strong {
   line-height: 20px;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .ratings-container {
@@ -60,6 +60,7 @@ body {
   color: #555;
   display: inline-block;
   margin: 10px 0;
+  font-size: 14px;
 }
 
 .rating:hover small,
@@ -69,6 +70,7 @@ body {
 
 .btn {
   background-color: #302d2b;
+  font-family: inherit;
   color: #fff;
   border: 0;
   border-radius: 4px;
@@ -84,8 +86,25 @@ body {
   transform: scale(0.98);
 }
 
+/* Font Awesome Icons */
+
 .fa-heart {
   color: red;
   font-size: 30px;
   margin-bottom: 10px;
+}
+
+.fa-smile {
+  color: #db7c26;
+  font-size: 50px;
+}
+
+.fa-face-meh-blank {
+  color: #d8572a;
+  font-size: 50px;
+}
+
+.fa-face-grin-wide {
+  color: #f7b538;
+  font-size: 50px;
 }
