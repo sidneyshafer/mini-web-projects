@@ -39,3 +39,4 @@
 | 34 | [Auto Image Carousel](34-auto-image-carousel) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/YzMNZVz) |
 | 35 | [Mini-Hoverboard](35-mini-hoverboard) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/oNOBZpv) |
 | 36 | [Pokedex App](36-pokedex-app) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/vYMgxwX) |
+| 37 | [Tab Navigation Card](37-tab-navigation-card) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/bGJgWgK) |
