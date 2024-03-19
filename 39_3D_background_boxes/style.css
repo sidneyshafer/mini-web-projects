@@ -47,15 +47,15 @@ body {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
-  height: 500px;
-  width: 500px;
+  height: 250px;
+  width: 250px;
   position: relative;
   transition: 0.4s ease;
 }
 
 .boxes.big {
-  width: 600px;
-  height: 600px;
+  width: 300px;
+  height: 300px;
 }
 
 .boxes.big .box {
@@ -66,10 +66,10 @@ body {
   /* GIF from giphy.com */
   background-image: url('https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ21mNmx2emlhZmU2NjNkcG5ldjhpaDViczlvM3docnBqeHUxYnkzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZXXshfXaR8IwQFUEj7/giphy.gif');
   background-repeat: no-repeat;
-  background-size: 500px 500px;
+  background-size: 250px 250px;
   position: relative;
-  height: 125px;
-  width: 125px;
+  height: 62.5px;
+  width: 62.5px;
   transition: 0.4s ease;
 }
 
