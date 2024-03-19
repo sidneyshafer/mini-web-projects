@@ -39,7 +39,7 @@ body {
   height: 0;
   transform: translate(-50%, -50%);
   border-radius: 50%;
-  opacity: 0.75;
+  opacity: 0.9;
   background: #3b6064;
   z-index: 1;
   transition: width 0.5s, height 0.5s;
