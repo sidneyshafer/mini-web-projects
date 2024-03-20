@@ -61,3 +61,4 @@
 | 56 | [Text Scroll Effect](56-text-scroll-effect) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/WNWRBPP) |
 | 57 | [Continuous Loader Animation](57-continuous-loader) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/QWPdRRP) |
 | 58 | [Image Hover Effect](58-image-hover-effect) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/gOygNYj) |
+| 59 | [Neon Worm Animation](59-neon-worm-animation) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/wvZgLaN) |
