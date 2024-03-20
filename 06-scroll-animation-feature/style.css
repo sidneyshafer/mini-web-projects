@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #fefefe;
+  background-color: #fefee3;
   font-family: 'Roboto', sans-serif;
   display: flex;
   flex-direction: column;
@@ -16,11 +16,21 @@ body {
 }
 
 h1 {
-  margin: 10px;
+  font-size: 25px;
+  text-transform: lowercase;
+  font-weight: normal;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.fa-arrow-down {
+  color: rgba(225, 0, 0, 0.5);
+  font-size: 26px;
+  margin-bottom: 20px;
 }
 
 .box {
-  background-color: steelblue;
+  background-color: #708d81;
   color: #fff;
   display: flex;
   align-items: center;
