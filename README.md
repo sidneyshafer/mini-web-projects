@@ -1,5 +1,5 @@
 # Mini-Web Widgets
-⭐A collection of 50+ web widgets built with HTML, CSS, and JavaScript.
+⭐A collection of 60+ web widgets built with HTML, CSS, and JavaScript.
 
 | #️ | Project | Demo Link ↗️ |
 |---|---------|-----------|
