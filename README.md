@@ -62,5 +62,5 @@
 | 57 | [Continuous Loader Animation](57-continuous-loader) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/QWPdRRP) |
 | 58 | [Image Hover Effect](58-image-hover-effect) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/gOygNYj) |
 | 59 | [Neon Worm Animation](59-neon-worm-animation) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/wvZgLaN) |
-| 60 | [Neon Worm Animation](60-3d-layored-image-hover) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/mdgRZPj) |
+| 60 | [3D Layored Image Hover](60-3d-layored-image-hover) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/mdgRZPj) |
 | 61 | [Shoe Product Card](61-shoe-product-card) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/dyLNBOd) |
