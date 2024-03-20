@@ -8,22 +8,25 @@
 }
 
 body {
+  width: 100vw;
   display: flex;
   align-items: center;
-  justify-content: center;
-  flex-direction: column;
+  justify-content: space-around;
+  overflow: hidden;
+  flex-wrap: wrap;
+  flex-direction: row;
   background: #111;
 }
 
 img {
-  width: 700px;
+  width: 300px;
   height: 150px;
 }
 
 .container {
   position: relative;
   margin-top: 250px;
-  max-width: 700px;
+  max-width: 300px;
   transform: skewY(-20deg);
 }
 
@@ -61,7 +64,7 @@ img {
 .container h2 {
   position: relative;
   color: #fff;
-  font-size: 4em;
+  font-size: 2em;
 }
 
 .container .skew {
@@ -72,12 +75,13 @@ img {
 
 .container .skew p {
   color: #fff;
-  font-size: 1.2em;
+  font-size: 1em;
+  width: 45%;
 }
 
 .container .skew a {
   position: relative;
-  padding: 10px 30px;
+  padding: 10px 20px;
   display: inline-block;
   background: transparent;
   color: #fff;
@@ -87,7 +91,7 @@ img {
   transform: skewX(-45deg);
   text-decoration: none;
   letter-spacing: 2px;
-  font-size: 20px;
+  font-size: 14px;
   transition: 0.5s;
 }
 
