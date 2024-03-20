@@ -57,3 +57,4 @@
 | 52 | [Font Awesome Animation](52-font-awesome-animation) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/yLrgZxd) |
 | 53 | [Floating Clock](53-floating-clock) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/eYogxXN) |
 | 54 | [CSS House Drawing](54-css-house-drawing) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/XWQpGbK) |
+| 55 | [Isometric Card Hover](55-isometric-card-hover) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/abxprQN) |
