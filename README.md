@@ -58,3 +58,4 @@
 | 53 | [Floating Clock](53-floating-clock) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/eYogxXN) |
 | 54 | [CSS House Drawing](54-css-house-drawing) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/XWQpGbK) |
 | 55 | [Isometric Card Hover](55-isometric-card-hover) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/abxprQN) |
+| 56 | [Text Scroll Effect](56-text-scroll-effect) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/WNWRBPP) |
