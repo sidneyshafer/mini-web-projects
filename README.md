@@ -59,4 +59,5 @@
 | 54 | [CSS House Drawing](54-css-house-drawing) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/XWQpGbK) |
 | 55 | [Isometric Card Hover](55-isometric-card-hover) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/abxprQN) |
 | 56 | [Text Scroll Effect](56-text-scroll-effect) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/WNWRBPP) |
-| 56 | [Continuous Loader Animation](57-continuous-loader) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/QWPdRRP) |
+| 57 | [Continuous Loader Animation](57-continuous-loader) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/QWPdRRP) |
+| 58 | [Image Hover Effect](58-image-hover-effect) | 🔗[CodePen Demo](https://codepen.io/sidneyshafer/pen/gOygNYj) |
