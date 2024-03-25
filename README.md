@@ -1,5 +1,5 @@
-# Mini-Web Widgets
-:star: A collection of 60+ web widgets built with HTML, CSS, and JavaScript.
+# Web Widgets & Projects
+:star: A collection of 60+ web widgets and mini projects built with HTML, CSS, and JavaScript.
 
 | # | Project | Demo Link :arrow_upper_right: |
 |---|---------|-----------|
