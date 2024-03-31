@@ -1,1 +1,141 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #111;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  margin: 0;
+}
+
+i {
+  color: #111;
+  opacity: 50%;
+  position: absolute;
+  top: 5px;
+  left: 7px;
+}
+
+.movie-container {
+  margin: 20px 0;
+}
+
+.movie-container select {
+  background-color: #2b2d42;
+  color: #fff;
+  border: 0;
+  border-radius: 5px;
+  font-size: 16px;
+  font-family: inherit;
+  margin-left: 10px;
+  padding: 10px 15px;
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.7);
+}
+
+.movie-container select:focus {
+  outline: none;
+}
+
+.container {
+  perspective: 1000px;
+  margin-bottom: 30px;
+}
+
+.seat {
+  position: relative;
+  background-color: #2b2d42;
+  border-radius: 5px;
+  height: 30px;
+  width: 30px;
+  margin: 3px;
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.7);
+}
+
+.seat.selected {
+  background-color: #ad2831;
+}
+
+.seat.occupied {
+  background-color: #fff;
+}
+
+.seat:nth-of-type(2) {
+  margin-right: 18px;
+}
+
+.seat:nth-last-of-type(2) {
+  margin-left: 18px;
+}
+
+.seat:not(.occupied):hover {
+  cursor: pointer;
+  transform: scale(1.2);
+}
+
+.showcase .seat:not(.occupied):hover {
+  cursor: default;
+  transform: scale(1);
+}
+
+.showcase .seat.selected:hover {
+  background-color: #ad2831;
+}
+
+.showcase .seat.n-a:hover {
+  background-color: #2b2d42;
+}
+
+.showcase {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 15px;
+  border-radius: 5px;
+  color: #777;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+.showcase li {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 15px;
+}
+
+.showcase li small {
+  margin-left: 3px;
+}
+
+.row {
+  display: flex;
+}
+
+.screen {
+  background-color: rgba(225, 225, 225, 0.9);
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  height: 20px;
+  width: 80%;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  transform: rotateX(-45deg);
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.7);
+}
+
+p.text {
+  margin: 5px 0;
+}
+
+p.text span {
+  color: #ad2831;
+  font-weight: bold;
+}
