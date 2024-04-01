@@ -26,12 +26,10 @@ body {
 h1 {
   color: #fff;
   text-align: center;
-  text-transform: lowercase;
 }
 
 p {
   text-align: center;
-  text-transform: lowercase;
 }
 
 .fa-arrow-right-arrow-left {
@@ -53,7 +51,10 @@ p {
   padding: 10px 18px;
   outline: none;
   border: none;
-  box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.5);
+}
+
+.btn:hover {
+  background-color: rgba(0, 78, 100, 0.5);
 }
 
 .currency {
@@ -64,6 +65,7 @@ p {
 }
 
 .currency select {
+  cursor: pointer;
   padding: 15px 30px 15px 15px;
   font-size: 14px;
   appearance: none;
@@ -105,9 +107,12 @@ p {
 }
 
 .rate {
-  color: var(--primary-color);
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.5);
+  opacity: 0.7;
+  padding: 10px 15px;
   font-size: 14px;
-  padding: 0 10px;
+  border-radius: 5px;
 }
 
 @media(max-width: 600px) {
