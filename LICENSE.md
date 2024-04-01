@@ -1,5 +1,7 @@
 ## Attribution
-- Brad Traversy. [50 Projects in 50 Days - HTML, CSS, & JavaScript](https://www.udemy.com/share/103Pje3@Lq4F8ewacITHqLa1UK00fWSmGH90VrunBtRAE-1L_nOCRBCcdhwapUemDKuHjil_PQ==/), Udemy.
+- Brad Traversy. [50 Projects in 50 Days - HTML, CSS, & JavaScript](https://www.udemy.com/course/50-projects-50-days/), Udemy.
+
+- Brad Traversy, [20 Web Projects with Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/), Udemy.
 
 - Online Tutorials, [YouTube Channel](https://www.youtube.com/@OnlineTutorialsYT/featured).
 
