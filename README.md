@@ -66,4 +66,4 @@
 | 61 | [Shoe Product Card](61-shoe-product-card) | :link: [CodePen Demo](https://codepen.io/sidneyshafer/pen/dyLNBOd) |
 | 62 | [Form Validation](62-form-validation) | :link: [CodePen Demo](https://codepen.io/sidneyshafer/pen/abxLxPJ) |
 | 63 | [Movie Seat Booking](63-movie-seat-booking) | :link: [CodePen Demo](https://codepen.io/sidneyshafer/pen/poBdgPB) |
-| 64 | [Exchange Rate Calculator](64-exchange-rate) | :link: [CodePen Demo](https://codepen.io/sidneyshafer/pen/eYoeVmZ) |
+| 64 | [Exchange Rate Calculator](64-exchange-rate) | :link: [CodePen Demo](https://codepen.io/sidneyshafer/full/eYoeVmZ) |
