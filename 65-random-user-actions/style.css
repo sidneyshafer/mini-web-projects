@@ -32,9 +32,9 @@ aside {
 button {
   cursor: pointer;
   background-color: #3d5a80;
-  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5);
-  color: #fff;
   border: none;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+  color: #fff;
   border-radius: 5px;
   display: block;
   width: 100%;
@@ -55,9 +55,10 @@ main {
 }
 
 h2 {
+  background-color: rgba(0, 0, 0, 0.2);
   margin: 0 0 20px;
-  border-bottom: 1px solid #fff;
-  padding-bottom: 10px;
+  border-radius: 5px;
+  padding: 5px 10px 10px 10px;
   display: flex;
   justify-content: space-between;
   font-weight: 300;
