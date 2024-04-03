@@ -7,7 +7,85 @@
   <title>Landing Page | Menu Slider & Modal</title>
 </head>
 <body>
-  
+  <nav>
+    <div class="logo">
+      <i class="fa-solid fa-user fa-2x"></i>
+    </div>
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">About</a></li>
+      <li><a href="#">Blog</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+  </nav>
+
+  <header>
+    <button id="toggle" class="toggle">
+      <i class="fa fa-bars fa-2x"></i>
+    </button>
+
+    <h1>Landing Page Title</h1>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, veniam!</p>
+
+    <button class="cta-btn" id="open">Sign Up</button>
+  </header>
+
+  <div class="container">
+    <h2>What is this Landing Page About?</h2>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corporis, beatae distinctio praesentium illo enim fugit expedita sint dolorum earum eius laborum at dolor, vero assumenda. Ducimus non optio amet inventore.</p>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto doloremque libero iste aspernatur, quo iure nobis alias voluptatem. Laborum, numquam?</p>
+
+    <h2>Tell Me More</h2>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit quisquam fugit consectetur, fugiat quod soluta, quia illo voluptatem atque autem a magnam quos debitis eum minus rerum esse tempore eius ab cumque officiis dolor. Enim est magnam earum corporis omnis.</p>
+
+    <h2>Benefits</h2>
+    <ul>
+      <li>Lifetime Access</li>
+      <li>30 Day Money Back</li>
+      <li>Tailored Customer Support</li>
+    </ul>
+
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rem quas iure et autem exercitationem inventore. Error repellendus qui fugiat, iusto repudiandae dolorem placeat quibusdam distinctio voluptates ullam doloremque earum. Recusandae sed incidunt doloremque? Tenetur sapiente saepe provident, blanditiis sit aliquam doloribus officia deserunt, aliquid totam porro eligendi alias, nam corporis facilis! Fuga aliquid saepe non natus quas quaerat repellat, necessitatibus sapiente temporibus libero quae, fugit, facilis ipsa culpa velit quod.</p>
+  </div>
+
+  <!-- Modal -->
+  <div class="modal-container" id="modal">
+    <div class="modal">
+      <button class="close-btn" id="close">
+        <i class="fa fa-times"></i>
+      </button>
+      <div class="modal-header">
+        <h3>Sign Up</h3>
+      </div>
+      <div class="modal-content">
+        <p>Register with us to get offers, support, and more...</p>
+        <form class="modal-form">
+          <div>
+            <label for="name">Name</label>
+            <input type="text" id="name" placeholder="Enter name">
+          </div>
+          <div>
+            <label for="email">Email</label>
+            <input type="email" id="email" placeholder="Enter email">
+          </div>
+          <div>
+            <label for="password">Password</label>
+            <input type="password" id="password" placeholder="Enter password">
+          </div>
+          <div>
+            <label for="confirm">Confirm Password</label>
+            <input type="password" id="confirm" placeholder="Confirm password">
+          </div>
+          <input type="submit" value="Submit" class="submit-btn">
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://kit.fontawesome.com/2006a997ee.js" crossorigin="anonymous"></script>
   <script src="script.js"></script>
 </body>
 </html>
