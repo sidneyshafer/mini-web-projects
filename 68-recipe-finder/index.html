@@ -7,6 +7,25 @@
   <title>Recipe Finder</title>
 </head>
 <body>
+  <div class="container">
+    <h1>Recipe Finder</h1>
+    <div class="flex">
+      <form class="flex" id="submit">
+        <input type="text" id="search" placeholder="Search for recipes">
+        <button class="search-btn" type="submit">
+          <i class="fas fa-search"></i>
+        </button>
+      </form>
+      <button class="random-btn" id="random">
+        <i class="fas fa-random"></i>
+      </button>
+    </div>
+
+    <div id="result-heading">
+      <div id="recipes" class="recipes"></div>
+      <div id="single-recipe"></div>
+    </div>
+  </div>
   
   <script src="https://kit.fontawesome.com/2006a997ee.js" crossorigin="anonymous"></script>
   <script src="script.js"></script>
