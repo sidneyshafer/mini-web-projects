@@ -71,7 +71,7 @@
 | 66 | [Menu Page & Modal Overlay](66-menu-modal-landing-page) | :link: [Live Demo](https://codepen.io/sidneyshafer/full/zYXpaJw) |
 | 67 | [Hangman](67-hangman) | :link: [Live Demo](https://codepen.io/sidneyshafer/full/wvZyErq) |
 | 68 | [Recipe Finder](68-recipe-finder) | :link: [Live Demo](https://codepen.io/sidneyshafer/full/WNWJoJa) |
-| 69 | [Expense Tracker](69-expense-tracker) | :link: [Live Demo]() |
+| 69 | [Expense Tracker](69-expense-tracker) | :link: [Live Demo](https://codepen.io/sidneyshafer/full/WNWJBma) |
 | 70 | [Character Feature Page](70-character-feature-page) | :link: [Live Demo](https://codepen.io/sidneyshafer/full/YzMNjgB) |
 | 71 | [Dropdown Menu](71-dropdown-menu) | :link: [Live Demo](https://codepen.io/sidneyshafer/full/BaEWzMB) |
 | 72 | [Menu Overlay](72-menu-overlay) | :link: [Live Demo](https://codepen.io/sidneyshafer/full/yLrMJwV) |
