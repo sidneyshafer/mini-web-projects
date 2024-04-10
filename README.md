@@ -75,3 +75,6 @@
 | 70 | [Character Feature Page](70-character-feature-page) | :link: [Live Demo](https://codepen.io/sidneyshafer/full/YzMNjgB) |
 | 71 | [Dropdown Menu](71-dropdown-menu) | :link: [Live Demo](https://codepen.io/sidneyshafer/full/BaEWzMB) |
 | 72 | [Menu Overlay](72-menu-overlay) | :link: [Live Demo](https://codepen.io/sidneyshafer/full/yLrMJwV) |
+| 73 | [Presentation Page](73-presentation-page) | :link: [Live Demo](https://codepen.io/sidneyshafer/full/zYXZBXP) |
+| 74 | [Portfolio Template Page](74-portfolio-template) | :link: [Live Demo](https://codepen.io/sidneyshafer/full/abxBVeQ) |
+| 75 | [Timeline Page](75-timeline-page) | :link: [Live Demo](https://codepen.io/sidneyshafer/full/PogpzvM) |
