@@ -78,3 +78,4 @@
 | 73 | [Presentation Page](73-presentation-page) | :link: [Live Demo](https://codepen.io/sidneyshafer/full/zYXZBXP) |
 | 74 | [Portfolio Template Page](74-portfolio-template) | :link: [Live Demo](https://codepen.io/sidneyshafer/full/abxBVeQ) |
 | 75 | [Timeline Page](75-timeline-page) | :link: [Live Demo](https://codepen.io/sidneyshafer/full/PogpzvM) |
+| 76 | [Infinite Scroll Posts](76-infinite-scroll-posts) | :link: [Live Demo](https://codepen.io/sidneyshafer/full/xxezEpJ) |
