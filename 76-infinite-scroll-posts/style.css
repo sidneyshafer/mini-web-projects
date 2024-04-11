@@ -29,7 +29,7 @@ h1 {
 }
 
 .filter {
-  background-color: #778da9;
+  background-color: #fff;
   border: none;
   border-radius: 3px;
   font-family: inherit;
@@ -43,9 +43,7 @@ h1 {
 }
 
 .filter:focus {
-  background-color: #415a77;
-  color: #fff;
-  outline: 1px solid #fff;
+  outline: none;
 }
 
 .filter:focus::placeholder {
