@@ -1,1 +1,133 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #2D3055;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Poppins', sans-serif;
+  min-height: 100vh;
+  margin: 0;
+}
+
+button {
+  cursor: pointer;
+  font-size: 14px;
+  border-radius: 4px;
+  border: none;
+  padding: 7px 15px;
+}
+
+select {
+  width: 100px;
+  padding: 5px;
+  margin-left: 2px;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  border-radius: 5px;
+  background-color: #4E4C79;
+  color: #fff;
+  /* border: 1px solid #51723B; */
+  font-family: inherit;
+}
+
+select:focus, button:focus {
+  outline: none;
+}
+
+.settings-btn {
+  color: #fff;
+  background-color: #4E4C79;
+  position: absolute;
+  bottom: 30px;
+  left: 30px;
+}
+
+.settings {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #7573A2;
+  color: #2D3055;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: translateY(0);
+  transition: transform 0.3s ease-in-out;
+}
+
+.settings.hide {
+  transform: translateY(-100%);
+}
+
+.container {
+  background-color: #f4f4f4;
+  padding: 70px 100px;
+  border-radius: 4px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.6);
+  color: #333;
+  position: relative;
+  text-align: center;
+  width: 500px;
+}
+
+h1 {
+  color: rgba(0, 0, 0, 0.6);
+  margin: 0;
+}
+
+input {
+  font-family: inherit;
+  border: 1px solid #7573A2;
+  border-radius: 4px;
+  font-size: 14px;
+  width: 300px;
+  padding: 12px 20px;
+  margin-top: 20px;
+}
+
+input:focus {
+  outline: none;
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
+}
+
+.score-container {
+  position: absolute;
+  top: 10px;
+  right: 25px;
+}
+
+.score {
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.time {
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.time-container {
+  position: absolute;
+  top: 10px;
+  left: 25px;
+}
+
+.end-game-container {
+  background-color: inherit;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
