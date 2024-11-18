@@ -81,3 +81,4 @@
 | 76 | [Infinite Scroll Posts](76-infinite-scroll-posts) | :link: [Live Demo](https://codepen.io/sidneyshafer/full/xxezEpJ) |
 | 77 | [Typing Game](77-typing-game) | :link: [Live Demo](https://codepen.io/sidneyshafer/full/JjVajjP) |
 | 78 | [Neon Text Effect](78-neon-text) | :link: [Live Demo](https://codepen.io/sidneyshafer/full/MWNdjLB) |
+| 79 | [CSS Socials Hover](79-css-socials-hover) | :link: [Live Demo](https://codepen.io/sidneyshafer/full/eYqaBWa) |
