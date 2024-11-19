@@ -82,3 +82,4 @@
 | 77 | [Typing Game](77-typing-game) | :link: [Live Demo](https://codepen.io/sidneyshafer/full/JjVajjP) |
 | 78 | [Neon Text Effect](78-neon-text) | :link: [Live Demo](https://codepen.io/sidneyshafer/full/MWNdjLB) |
 | 79 | [CSS Socials Hover](79-css-socials-hover) | :link: [Live Demo](https://codepen.io/sidneyshafer/full/eYqaBWa) |
+| 80 | [Socials Cards 1.0](80-socials-cards-1) | :link: [Live Demo](https://codepen.io/sidneyshafer/full/yLmWqJL) |
